@@ -1,3 +1,6 @@
+# IMPORTANT NOTE
+There's an update to this repo coming soon, whith the evaluation of my results and model, which is integral to the project. However, I can't upload it right now - Austin had a bad winter storm, my power's out and there's no estimate as to when it will be back. So to anyone looking at this repo while this message is still up -- there will be an update soon, but it's going to be incomplete until my power is back on.
+
 # Author-RNN
 RNN to generate prose in the styles of different authors, + analysis
 
